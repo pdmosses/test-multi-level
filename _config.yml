@@ -22,7 +22,7 @@ title: Test multi-level
 # email: your-email@example.com
 description: Uses remote_theme pdmosses/just-the-docs@combination-rec-nav
 baseurl: "/test-multi-level" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pdmosses.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
