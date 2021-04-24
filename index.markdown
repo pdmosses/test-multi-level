@@ -6,6 +6,6 @@ layout: default
 ---
 # Home
 
-This site tests that `pdmosses/just-the-docs@combination-rec-nav` works as a remote theme.
+This site demonstrates how to use `pdmosses/just-the-docs@combination-rec-nav` as a remote theme.
 
-See `_config.yml` and `Gemfile` in the repository on GitHub for appropriate settings.
+See `_config.yml` and `Gemfile` in the repository on GitHub for the relevant settings.
